@@ -38,10 +38,6 @@ The dashboard helps identify:
 ### Film Certification
 - U-rated films account for the largest share of movies in the dataset.
 
-## 📷 Dashboard Preview
-
-![Dashboard](screenshots/dashboard-overview.png)
-
 ## 📈 Key Features
 
 - Interactive filtering
